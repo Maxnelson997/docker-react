@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-              What is goodie 
+              What is goodie!?
           </p>
           <a
             className="App-link"
@@ -17,8 +17,13 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn Reuntactasdflk;;l;
+            Learn iOS Development.
           </a>
+          <p>
+            Our courses are designed to combine a concept driven approach with full scale app development.
+            <div></div>
+            This provides new and pro developers the necessary skills to create and finihs apps for clients and themselves, not just the ability the build features.
+          </p>
         </header>
       </div>
     );
